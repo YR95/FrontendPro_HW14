@@ -1,0 +1,19 @@
+hero = ['Ivan'];
+native = ['York','Of'];
+destination = ['Poltava','In'];
+Using loops, if/else, switch/case and .push(), .pop(), .unshift(), .shift(), .concat(), .splice(), .reverse() .join() methods:
+
+1. To concat arrays destination, native, hero into one common array - rainbow.
+
+2. Reversed the elements in rainbow array.
+
+3. Change/add the elements of rainbow array,
+so in the end you will get array like this ['Richard','Of','York','Gave','Battle','In','Vain'];
+
+4. Render in html the array, that you will get from the last step as in image that was added: rainbow.png.
+
+
+
+Font-family that I used on image: Quicksand. But you can take any))
+
+You don't have to use all methods! Use just that methods, which can help to you to create array as in the image rainbow.png.
